@@ -1,6 +1,6 @@
 # **SimmerDeeds Image Updater**
 
-This is a Python-based web scraper that fetches and updates profile images for Simmers (content creators in The Sims community) for my React WebApp **[SimmerDeeds](https://simmerdeeds.netlify.app)**. It extracts image URLs from the web page and updates a Supabase database with the latest image links.
+This is a Python-based web scraper that fetches and updates profile images for Simmers (content creators in The Sims community) for my React WebApp **[SimmerDeeds](https://simmerdeeds.netlify.app)** (or *[Repo](https://github.com/rickibeckless/Simmer-Deeds)*). It extracts image URLs from the web page and updates a Supabase database with the latest image links.
 
 ## **Features**
 - Scrapes images from a given webpage (in this case *[SimmerDeeds](https://simmerdeeds.netlify.app)*).
